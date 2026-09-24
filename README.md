@@ -1,2 +1,2 @@
 # singlePageApp
-Personal Info
+Personal Information
